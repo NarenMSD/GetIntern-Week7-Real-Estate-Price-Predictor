@@ -1,6 +1,6 @@
 # Real Estate Property Price Predictor
 
-> **Week 7 Milestone — 8-Week Practical Data Science & Machine Learning Internship (GetIntern.in)**
+> **Week 7 Milestone — 8-Week Practical Data Science Internship (GetIntern.in)**
 
 A regression machine learning project that predicts continuous housing prices on the **California Housing** dataset using `scikit-learn`. It benchmarks a baseline **Linear Regression** model against an ensemble **Random Forest Regressor** on an 80/20 train-test split, inspects diagnostic plots and feature importances, and runs custom property valuations alongside an out-of-distribution stress test.
 
@@ -88,7 +88,7 @@ Using the `valuate()` helper (which enforces exact training column ordering and 
 | **Inland low-income** | `2.1` ($21,000) | `(36.75, -119.77)` | `4.6 / 1.02` | **$56,123** | `$108,682` |
 
 ### Custom Property Prediction Output Screenshot
-![Custom Property Price Predictions](images/custom_property_predictions.png)
+![Custom Property Price Predictions](images/custom_property_predictions.png.png)
 
 ---
 
